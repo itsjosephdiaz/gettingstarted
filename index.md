@@ -1,12 +1,10 @@
 ## Welcome to Trackland Sheets
 
-You can use the [editor on GitHub](https://github.com/itsjosephdiaz/gettingstarted/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Trackland’s software tools and custom solutions help businesses all over the world succeed with Salesforce.  Extend the the world’s #1 business platform with Trackland and enjoy a simple user experience and easier integrations.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Why Trackland Sheets?
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+If you love the speed and simplicity of Google spreadsheets, but crave the robust workflows and automation of Salesforce services, Trackland is for you.  Read more about how we merge these two great concepts to help you get work done fast.
 
 ```markdown
 Syntax highlighted code block
